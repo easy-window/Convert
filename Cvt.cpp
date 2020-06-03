@@ -1,7 +1,7 @@
 #include "stdafx.h"
 #include "Cvt.h"
 
-namespace Lib {
+namespace Easy {
 
 COleDateTime Cvt::ToDateTime( CString sDateTime )
 {
